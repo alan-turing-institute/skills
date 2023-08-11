@@ -59,7 +59,7 @@ This project is currently maintained by [Mishka Nemes](https://github.com/mishka
 
 ### DOI
 
-[![DOI](https://zenodo.org/badge/347910640.svg)](https://zenodo.org/badge/latestdoi/347910640)
+[![DOI](https://zenodo.org/badge/673298796.svg)](https://zenodo.org/badge/latestdoi/673298796)
 
 
 ### Licence
