@@ -13,16 +13,16 @@ Everything we upload at the Turing is Open Access under a Creative Commons Attri
 - posters & presentations (in PDF or editable format)
 - datasets (in .csv format)
 - images (in .png format)
-- video recordings
-- lessons (in ? format)
-- other: can we upload .md files or Jypyter books? GitHub repos?
+- video recordings (in .mov pr .mp4 format)
+- courses (in GitHub repo format)
 
 ## Access levels
-? Can anyone upload a file within a community?
+The Skills folks at the Turing are accountable to upload and cite materials, and work together with the contributors to add ORCID identifiers for the authors of each citable object, where applicable. 
 
 ## Guidance for uploading on Zenodo
 - **Titles**: use descriptive titles that are consistent between different resources, and that are easy to find by others in the community
 - **Publication date**: use the date when the materials were shared for the first time e.g., when you shared a presentation, launched a product etc.
+- **Keywords**: add appropriate key words that are more specific to the material e.g., transparent machine learning
 
 ## Useful links
 
